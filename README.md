@@ -7,6 +7,20 @@ This is a study follow up on the creation of a Ceaser Cipher program.
 >Love this project? Buy me a coffee...
 ---
 
+The Ceaser Cipher program takes a string of text and returns a new string with each of it's individual letters shifted into a new letter according to the shift difference stated.
+
+for instance
+
+    ```rb
+
+    ceaser_cipher("abc", 2) => "cde"
+
+    ceaser_cipher("Rubby", 3) => "Uxeeb"
+    
+    ```
+
+---
+
 ## Technologies Used
 
 <!-- <p> 
