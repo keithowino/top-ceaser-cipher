@@ -1,13 +1,13 @@
-#   TOP CEASER CIPHER
+#   TOP CEASAR CIPHER
 
-This is a study follow up on the creation of a Ceaser Cipher program.
+This is a study follow up on the creation of a Ceasar Cipher program.
 
 <!-- ![designer](./static/images/designer.gif) -->
 
 >Love this project? Buy me a coffee...
 ---
 
-The Ceaser Cipher program takes a string of text and returns a new string with each of it's individual letters shifted into a new letter according to the shift difference stated.
+The Ceasar Cipher program takes a string of text and returns a new string with each of it's individual letters shifted into a new letter according to the shift difference stated.
 
 for instance
 
@@ -16,7 +16,7 @@ for instance
     ceaser_cipher("abc", 2) => "cde"
 
     ceaser_cipher("Rubby", 3) => "Uxeeb"
-    
+
     ```
 
 ---
