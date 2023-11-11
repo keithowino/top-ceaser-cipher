@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background-color: #eee; }
+
+.l-s-t-s {
+  line-height: 4em;
+  text-transform: uppercase;
+  text-align: center; }
+
+main {
+  margin-bottom: 4em; }
+
+footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 3em;
+  background-color: #222; }
+
+#footnote-wrapper {
+  display: flex; }
+
+#footnote {
+  margin: 0.7em auto;
+  color: #fff; }
+
+.m-footnote-site-title-ref, .m-parent-site-ref {
+  text-decoration: none;
+  text-transform: capitalize; }
+  .m-footnote-site-title-ref:hover, .m-parent-site-ref:hover {
+    color: white; }
+
+/*# sourceMappingURL=main-sass-compiler.css.map */
