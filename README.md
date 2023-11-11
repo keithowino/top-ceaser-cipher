@@ -1,15 +1,15 @@
-#   PROJECT TITLE
+#   TOP CEASER CIPHER
 
-Here goes the description of the page explaining what it is and what it can do.
+This is a study follow up on the creation of a Ceaser Cipher program.
 
-![designer](./static/images/designer.gif)
+<!-- ![designer](./static/images/designer.gif) -->
 
 >Love this project? Buy me a coffee...
 ---
 
 ## Technologies Used
 
-<p> 
+<!-- <p> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>
@@ -22,7 +22,7 @@ Here goes the description of the page explaining what it is and what it can do.
     <a href="https://getbootstrap.com/" target="_blank"> 
         <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> 
     </a>
-</p>
+</p> -->
 
 ---
 
@@ -34,7 +34,7 @@ To fix a bug or enhance an existing module, follow these steps:
 1. Fork the repository
 
     ```
-    https://github.com/keithowino/[repository-name]/fork
+    https://github.com/keithowino/top-ceaser-cipher/fork
     ```
 2. Create a new branch
 
@@ -60,17 +60,17 @@ To fix a bug or enhance an existing module, follow these steps:
 - To clone this repository to your machine do this in the root directory of where you would like to save the project. Before using this be sure which url link you should use, is it for HTTP or shh.
 
     ```
-    git clone https://github.com/freestyletear/[repository-name].git
+    git clone https://github.com/freestyletear/top-ceaser-cipher.git
     ```
 
 - Open the repository.
 
     ```
-    cd [repo-name]
+    cd top-ceaser-cipher
     ```
 
-- Navigate to index.html  and open it on your favorite browser
-Your browser must be JavaScript enabled for this to work
+<!-- - Navigate to index.html  and open it on your favorite browser
+Your browser must be JavaScript enabled for this to work -->
 
 ## Installation Medium
 1. Steady Network.
@@ -79,4 +79,4 @@ Your browser must be JavaScript enabled for this to work
 
 ## Bug / Feature Request
 
-- If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here > (https://github.com/freestyletear/[repository-name]/issues/new).
+- If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here > (https://github.com/freestyletear/top-ceaser-cipher/issues/new).
