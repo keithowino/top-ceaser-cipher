@@ -61,8 +61,7 @@ To fix a bug or enhance an existing module, follow these steps:
     cd top-ceaser-cipher
     ```
 
-<!-- - Navigate to index.html  and open it on your favorite browser
-Your browser must be JavaScript enabled for this to work -->
+- After this in order to execute the program, you need to enter `ruby ./scripts/main.rb` on a Git terminal, after which the program executes the "POTUS" protocol.
 
 ## Installation Medium
 1. Steady Network.

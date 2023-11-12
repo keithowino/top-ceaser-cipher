@@ -1,6 +1,6 @@
 # * CEASAR'S CIPHER
 
-def ceasar_cipher(input, shift=3)
+def ceasar_cipher(input, shift = 3)
   # * The alphabet helps us to know the index position of each letter in the original string.
   constants = ""
   cipher = ""
@@ -31,9 +31,28 @@ def ceasar_cipher(input, shift=3)
   return cipher
 end
 
-p ceasar_cipher("(Top), 30", 5)
+# * p ceasar_cipher("(Top), 30", 5)
 # ? => "(Ytu), 30"
-p ceasar_cipher("Daniel's car", 7)
+# * p ceasar_cipher("Daniel's car", 7)
 # ? => "khupl's jhy"
-p ceasar_cipher("Ceasar's Cipher.")
+# * p ceasar_cipher("Ceasar's Cipher.")
 # ? => "Fhdvdu'v Flskhu."
+
+p ""
+p "Enter your budge number: "
+p ""
+budge_number = gets.chomp
+p ""
+p "Glad to see you agent #{budge_number}, POTUS requests ground feedback: "
+p ""
+message = gets.chomp
+p ""
+p "Please state the shift difference eg. 2 : "
+p ""
+shift_difference = gets.chomp.to_i
+p ""
+p "..."
+p ""
+p "Cipher complete"
+p ""
+p ceasar_cipher(message, shift_difference)
