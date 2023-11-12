@@ -1,44 +1,22 @@
 #   TOP CEASAR CIPHER
 
-This is a study follow up on the creation of a Ceasar Cipher program.
+This is a study follow up on the creation of a Ceasar's Cipher program.
 
-<!-- ![designer](./static/images/designer.gif) -->
-
->Love this project? Buy me a coffee...
+>Love this progress? Buy me a coffee...
 ---
 
 The Ceasar Cipher program takes a string of text and returns a new string with each of it's individual letters shifted into a new letter according to the shift difference stated.
 
 for instance
 
-    ```rb
-
-    ceaser_cipher("abc", 2) => "cde"
-
-    ceaser_cipher("Rubby", 3) => "Uxeeb"
-
-    ```
+```rb
+ceasar_cipher("(Top), 30", 5) output = "(Ytu), 30"
+ceasar_cipher("Daniel's car", 7) output = "khupl's jhy"
+ceasar_cipher("Ceasar's Cipher.") output = "Fhdvdu'v Flskhu."
+```
 
 ---
 
-## Technologies Used
-
-<!-- <p> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com/" target="_blank"> 
-        <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> 
-    </a>
-</p> -->
-
----
 
 ## Development
 > Want to contribute? Great!
